@@ -1,3 +1,12 @@
+.idea
+temp
+temp*
+*.mp4
+*.mp3
+cache.json
+pruebas.py
+runway_api_key.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
